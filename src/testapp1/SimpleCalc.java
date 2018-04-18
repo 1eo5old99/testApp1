@@ -16,5 +16,8 @@ return this.a+this.b;
 public double getDiff(){
     return this.a-this.b;
 }
+public double getMulti(){
+     return this.a*this.b;
+ }
 
 }
