@@ -1,4 +1,9 @@
  
+<<<<<<< HEAD
 hello  mudo!
 >>>>>>> whitespace
+=======
+hello world!
+
+>>>>>>> mudo
 
